@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>bude_1m_hill_rend_mlw.tif</Title>
+      <Title>launceston_west_proper_1m_Hill_rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-4.60418938676091" miny="50.77064358840363" maxx="-4.12906685175181" maxy="50.91491140379154"/>
-      <Origin x="-4.60418938676091" y="50.77064358840363"/>
+      <BoundingBox minx="-4.48335453542263" miny="50.54849230933032" maxx="-4.25999198076413" maxy="50.77744266497056"/>
+      <Origin x="-4.48335453542263" y="50.54849230933032"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
