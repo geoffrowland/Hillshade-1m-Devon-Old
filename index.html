@@ -56,8 +56,6 @@
 
         var grid = L.gridLayer.gridDebug();
 
-        //map.addLayer(L.gridLayer.gridDebug());
-
         // Base layers
         //  .. OpenStreetMap
         var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -93,7 +91,7 @@
         });
 
         var basemaps = {"OpenStreetMap": osm, "Grey background": grey}
-        var overlaymaps = {"EU-DEM 25m": base, "DTM 1m Devon": lyr, "Tile grid": grid}
+        var overlaymaps = {"Hillshade 25m": base, "Hillshade 1m Devon": lyr, "Tile grid": grid}
 
         // Add base layers
         L.control.layers(basemaps, overlaymaps, {collapsed: true}).addTo(map);
