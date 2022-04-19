@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>budecoastcliprend.tif</Title>
+      <Title>salcombenewrend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-4.63514111356116" miny="50.77000285162467" maxx="-4.48335084376576" maxy="50.95279127741078"/>
-      <Origin x="-4.63514111356116" y="50.77000285162467"/>
+      <BoundingBox minx="-4.10891320197779" miny="50.15102147641381" maxx="-3.47136487480156" maxy="50.34051825834443"/>
+      <Origin x="-4.10891320197779" y="50.15102147641381"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
